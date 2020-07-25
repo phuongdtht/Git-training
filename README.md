@@ -8,4 +8,4 @@ hello
 
 hi quang
 
-hello from ha
+hello
