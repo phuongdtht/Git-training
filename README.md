@@ -3,6 +3,7 @@ chao moi nguoi
 hello world
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Van came here!
 =======
 hihhi
@@ -22,3 +23,6 @@ chao moi nguoi
 =======
 readme
 >>>>>>> 1136d7203301c73e42f7cc24848c1d47a5cbb137
+=======
+ update!
+>>>>>>> khoi-dong
