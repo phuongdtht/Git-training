@@ -17,6 +17,6 @@ hi quang
 hello
 
 hhaha
->>>>>>> 939dc3856a1e7e542da2f7a248747e77b
+>>>>>>> 939dc3856a1e7e542da2f7a248747e77b65bce3f
 
-CHAO MOI NGUOI!
+chao moi nguoi
